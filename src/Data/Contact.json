@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "social": "Twitter"
+  },
+  {
+    "id": 2,
+    "social": "LinkedIn"
+  },
+  {
+    "id": 3,
+    "social": "Dribbble"
+  },
+  {
+    "id": 4,
+    "social": "YouTube"
+  },
+  {
+    "id": 5,
+    "social": "Instagram"
+  },
+  {
+    "id": 6,
+    "social": "Facebook"
+  }
+]

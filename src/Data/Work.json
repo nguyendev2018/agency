@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "./images/work/image-1.jpg",
+    "title": "Abstract Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. orem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 2,
+    "image": "./images/work/image-2.jpg",
+    "title": "Vector Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. orem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 3,
+    "image": "./images/work/image-3.jpg",
+    "title": "Brand Redesign",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. orem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  },
+  {
+    "id": 4,
+    "image": "./images/work/image-4.jpg",
+    "title": "Abstract Design",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. orem ipsum dolor sit amet, consectetur adipiscing elit.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  }
+]

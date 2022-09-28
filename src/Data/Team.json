@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Jhon Doe",
+    "job": "Digital Marketing Manager",
+    "image": "./images/teams/people-1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jhon Doe",
+    "job": "Digital Marketing Manager",
+    "image": "./images/teams/people-2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Jhon Doe",
+    "job": "Digital Marketing Manager",
+    "image": "./images/teams/people-3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Jhon Doe",
+    "job": "Digital Marketing Manager",
+    "image": "./images/teams/people-4.jpg"
+  }
+]
