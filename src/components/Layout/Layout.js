@@ -4,6 +4,7 @@ import { Work } from "../Work";
 import { Services } from "../Services";
 import { Team } from "../Team";
 import { Contact } from "../Contact";
+import { Footer } from "../Footer";
 const Layout = () => {
   return (
     <div className="wrapper">
@@ -12,6 +13,7 @@ const Layout = () => {
       <Services></Services>
       <Team></Team>
       <Contact></Contact>
+      <Footer></Footer>
     </div>
   );
 };
